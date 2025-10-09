@@ -42,6 +42,7 @@ POST /api/login/
 Click Send to verify each request works
 
 
+<img src="images/erDaigram.png" alt="Project Banner" width="600"/>
 
 
 
