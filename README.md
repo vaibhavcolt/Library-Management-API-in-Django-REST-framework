@@ -42,7 +42,8 @@ POST /api/login/
 Click Send to verify each request works
 
 
-<img src="images/erDaigram.png" alt="Project Banner" width="600"/>
+<img width="1236" height="798" alt="erDaigram" src="https://github.com/user-attachments/assets/bec777ba-cc57-4670-be2f-28151af814a6" />
+ng" alt="er diagram" width="600"/>
 
 
 
