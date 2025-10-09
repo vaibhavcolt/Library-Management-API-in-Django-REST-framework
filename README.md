@@ -16,7 +16,10 @@ Method: POST
 
 URL: http://127.0.0.1:8000/api/register/
 
-Headers
+
+Some api are protected so there require authorization using *username* &  *password*.
+
+*After authorization a token will be generated, tokens allow clients to prove identity without sending a username and password on every request.*
 
 json
 Authorization: Token your_token_here(like this 647be37deca15e190257dfcab4761818578a233e)
