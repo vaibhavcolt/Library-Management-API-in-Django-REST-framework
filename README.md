@@ -1,9 +1,9 @@
-**###Step-by-Step: Document Your API with Postman**
+***Step-by-Step: Document Your API with Postman***
 
 **1.Open Postman and Create a New Collection**
 Launch Postman
 
-########Click "Collections" → "New Collection"
+Click "Collections" → "New Collection"
 
 Name it something like Library API or Django Backend
 
@@ -41,7 +41,12 @@ POST /api/login/
 **3.Test Each Request**
 Click Send to verify each request works
 
-**#Save the request to your collection**
+
+
+
+
+
+***#Save the request to your collection***
 
 **1.Install Python & Virtual Environment**
 
