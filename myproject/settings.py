@@ -86,14 +86,9 @@ DATABASES = {
         "ENGINE": "django.db.backends.mysql",
            "HOST": "localhost",
         "PORT": "3306",  
-        # "NAME": "library_management_system",
-        # "USER": "root",
-        # "PASSWORD": "wa@7024355497",
-           "HOST": "Coltvaibhav.mysql.pythonanywhere-services.com",
-      "NAME": "library_management_system",
-        "USER": "Coltvaibhav",
-        "PASSWORD": "VAsuper@2082003",
-     
+        "NAME": "library_management_system",
+        "USER": "root",
+        "PASSWORD": "wa@7024355497",
     }
 }
 
